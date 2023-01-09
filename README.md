@@ -11,7 +11,7 @@ Class: Mon,Wed, 2pm, PHELPS 1160
 
 Discussion session: Friday, 9am and 10am
 
-TA's office hour: Junrui Liu (TBD), Hongbo Wen (TBD), Jingtao Xia (TBD)
+TA's office hour: Junrui Liu (TBD), Hongbo Wen (TBD), Jingtao Xia (Thu, 2:00pm-3:00pm PHELPS 3523)
 
 Instructor's office hour: Wed, 3:30pm-4:30pm (PLSE LAB: PHELPS 3523)
 
